@@ -1,0 +1,21 @@
+# Streamlit UI
+streamlit
+
+# TF (CPU version recommended for cloud)
+tensorflow-cpu==2.15.0
+
+# Audio processing
+librosa==0.10.1
+numba
+soundfile
+pooch
+
+# Scientific tools
+numpy
+scipy
+matplotlib
+seaborn
+
+# TF dependencies
+protobuf<4
+packaging
